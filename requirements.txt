@@ -1,4 +1,4 @@
-
+Flask~=2.2.2
 tensorflow==2.10.0
 numpy==1.21.6
 gradio==3.21.0
