@@ -21,7 +21,12 @@ section, summary, time, mark, audio, video {
   border: 0;
   font-size: 100%;
   font: inherit;
-  vertical-align: baseline; }
+  vertical-align: baseline;
+  text-align:center}
+
+iframe {
+    width: 100%;
+    height: 100%;}
 
 
 article, aside, details, figcaption, figure,
@@ -801,9 +806,7 @@ button,
   #header {
     margin: 0 0 1em 0; } }
 
-iframe.framing {
-    width: 100%;
-    height: 400px; }
+
 
 /* Footer */
 #footer {
