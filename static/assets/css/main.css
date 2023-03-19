@@ -22,11 +22,11 @@ section, summary, time, mark, audio, video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
-  text-align:center}
+  text-align:center;}
 
 iframe {
-    width: 100%;
-    height: 100%;}
+    width: 1px;
+    min-width: 100%;}
 
 
 article, aside, details, figcaption, figure,
@@ -71,7 +71,7 @@ input, select, textarea {
   width: device-width; }
 
 body {
-  -ms-overflow-style: scrollbar; }
+  -ms-overflow-style: none; }
 
 @media screen and (max-width: 480px) {
   html, body {
