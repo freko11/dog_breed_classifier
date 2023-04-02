@@ -1,4 +1,4 @@
-# [Dog Breed Classifier](https://dog-breed-classifier-sc1t.onrender.com)
+# [Dog Breed Classifier](https://lenweijie.com/dog_breed_classifier/)
 
 A TFLite converted [ResNet V2](https://tfhub.dev/google/imagenet/resnet_v2_152/feature_vector/5) classification model trained on [Stanford Dogs dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/). 
 
